@@ -1,0 +1,1 @@
+# minimal-safe-bash-script-template
